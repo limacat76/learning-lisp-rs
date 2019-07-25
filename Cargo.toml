@@ -1,0 +1,5 @@
+[package]
+name = "learning-lisp-rs"
+version = "0.1.0"
+authors = ["Davide -limaCAT- Inglima <limacat@live.it>"]
+edition = "2018"
